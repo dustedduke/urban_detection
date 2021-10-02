@@ -1,1 +1,1 @@
-# urban_detection
+# Bosch Acoustic Event Classification Task
